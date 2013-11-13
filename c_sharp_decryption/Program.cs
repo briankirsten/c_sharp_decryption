@@ -16,7 +16,7 @@ namespace RSA_Decrypt
 
 			Encryption encObj = new Encryption (certLocation);
 
-			Console.WriteLine (encObj.Decrypt (encryptedString)); //Hello World!
+			Console.WriteLine (encObj.Decrypt (encryptedString)); //Should print Hello World!
 
 		}
 	}
