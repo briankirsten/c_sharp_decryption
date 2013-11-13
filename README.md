@@ -26,6 +26,10 @@ Modifying the Code
 -----------------
 Head into the C# project and change the "certLocation" variable to where you generated that private key from above. (You remember where you put it right?)
 
+Much Thanks
+-----------
+Much thanks to this [article](http://www.csharpbydesign.com/2008/04/asymmetric-key-encryption-with.html) that pointed me in the right direction. As well as a ton of [stackoverflow](http://stackoverflow.com/) articles. 
+
 That's it!
 ----------
 Enjoy! Or ask me questions! Or yell at me, whatever makes you happy.
